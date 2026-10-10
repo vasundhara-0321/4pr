@@ -1,0 +1,6 @@
+{
+  "name": "Campaign Guardian AI",
+  "description": "Intelligent ad campaign anomaly detection and smart alerting to protect ad performance without alert fatigue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
